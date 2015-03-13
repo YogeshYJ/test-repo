@@ -29,3 +29,5 @@ I can use git now.
 
 New branch
 
+Delete Branch
+
