@@ -25,3 +25,5 @@ Not user, when will be used.
 
 Almost done now 
 
+I can use git now.
+
